@@ -2,7 +2,7 @@
 免费白嫖网易云音乐音乐的软件！  
 源代码储存在`./code`文件夹下  
 `.iss`后缀的文件是`Inno Setup`项目文件。安装包由`Inno Setup`制作。  
-./release文件夹里面有直接打包的`exe`文件和安装包。  
+`./release`文件夹里面有直接打包的`exe`文件和安装包。  
 大家看需求选择，我先声明一下`exe`和安装包的优缺点。  
 ## 安装包（推荐）
 `release`文件夹下的`Cloader-setup-版本号.exe`文件是Cloader的安装包。  
